@@ -1,0 +1,400 @@
+body, input, textarea, select, button, .normal 
+{
+	font-family: "Open Sans","lucida grande","Segoe UI",arial,verdana,"lucida sans unicode",tahoma,sans-serif;
+	font-size: 13px;
+	color: #3d464d;
+	font-weight: normal;
+}
+body
+{
+margin: 0 0 0 0;
+}
+
+.last5
+{
+	font-size:25px;
+}
+a{
+	
+	text-decoration: blink;
+	color: white;
+	font-size: 25;
+	font-family: segoe ui light;
+}
+
+#main-right table {
+	font-size: 20;
+  margin: 1em 1em 1em 0;
+  background: whitesmoke;
+  border-collapse: collapse;
+}
+#main-right table th, table td {
+	
+  border: 1px silver gainsboro;
+  padding: 0.2em;
+}
+#main-right table th {
+	font-size: 20;
+  background: gainsboro;
+  text-align: left;
+}
+
+#main-right a{
+	font-size: 20;
+	color:red;
+}
+
+
+#header
+{
+	background: url(images/bg_top3_repeat.jpg) top center repeat-x;
+	height:150px;
+}
+.freshbutton-blue 
+{
+	/* background: #007ee5; */
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#168add", endColorstr="#007ee5");
+	background: -webkit-gradient(linear, left top, left bottom, from(#0058ff), to(#0f5185));
+	background: -moz-linear-gradient(top, #168add, #007ee5);
+	border: 1px solid #000000;
+	color: white;
+	padding: 5px 16px;
+	border-radius: 3px;
+
+}
+
+#header1
+{
+	background: url(images/bg_top3.jpg) top center no-repeat;
+	padding: 28px 28px;
+	height:94px;
+}
+
+#logo
+{
+	float:left;
+	padding-left: 50px;
+    width: 250px;
+    margin-left: 75px;
+    margin-bottom: 0px;
+    margin-top: -20;
+}
+
+.header-faq
+{
+	margin-right: 300px;
+	float: right;
+	margin-top: -135;
+	font-size: 17px;
+	color: #006abb;
+	font-weight: bold;
+}
+
+.header-signout
+{
+	margin-right: 150px;
+	float: right;
+	margin-top: -135;
+	font-size: 17px;
+	color: #006abb;
+	font-weight: bold;
+}
+
+.welcome
+{
+     margin-top: 10px;
+	font-family: segoe ui light;
+	font-size:44px;
+	
+}
+
+.user
+{
+	color:#006abb;
+	font-size:33px;
+}
+
+#main
+{
+	background:#eeeeee;
+	margin-top: -1;
+	height:570px;
+	width:1351px;
+
+}
+
+#left-table
+{
+	background:#001c31;
+	width: 250px;
+
+}
+#menu1
+{
+	background:#001c31;
+	
+    height: 70px;
+
+}
+#menu1:hover
+{
+	background:#001628;
+	
+    height: 70px;
+
+}
+
+
+#menu2
+{
+	background:#01233c;
+	
+    height: 70px;
+
+}
+#menu2:hover
+{
+	background:#001628;
+	
+    height: 70px;
+
+}
+#menu3
+{
+	background:#022e53;
+	
+    height: 70px;
+
+}
+#menu3:hover
+{
+	background:#001628;
+	
+    height: 70px;
+
+}
+
+#menu4
+{
+	background:#01233c;
+	
+    height: 70px;
+
+}
+#menu4:hover
+{
+	background:#001628;
+	
+    height: 70px;
+
+}
+#menu5
+{
+	background:#001c31;
+	
+    height: 70px;
+
+}
+#menu5:hover
+{
+	background:#001628;
+	
+    height: 70px;
+
+}
+#table-text
+{
+	color:white;
+}
+.home
+{
+	width:100px;
+}
+
+.home #image
+{
+	margin:10 10 10 10;
+}
+
+ #text
+{
+	font-family: segoe ui light;
+	margin:10 10 10 10;
+	color:white;
+	font-size:24px;
+}
+.homeans {
+color: FFA300;
+}
+
+
+#text p
+{
+	padding-left: 18px;
+}
+
+#home table
+{
+	margin-left: 10px;
+}
+
+.pad1 p
+{
+	padding-left: 18px;
+	font-size:15px;
+}
+
+.home table
+{
+	margin-left: 10px;
+}
+
+#main-right
+{
+	width: 900px;
+    float: right;
+}
+
+#main-right th
+{
+	font-size: 25px;
+	color: #006abb;
+}
+#main-right h1,h3
+{
+	color: FFA300;
+}
+.col1
+{
+	width: 276px;
+	height:248px;
+}
+
+.box1 
+{
+	background: url(images/box_repeat.gif) center repeat-y;
+}
+
+.box1_bot 
+{
+	background: url(images/box_bot.gif) center bottom no-repeat;
+}
+
+.box1_top 
+{
+	background: url(images/box_top.jpg) center top no-repeat;
+	width: 100%;
+}
+
+.box1 .pad 
+{
+	padding: 0 26px;
+	padding-bottom: 23px;
+}
+
+.pad1 
+{
+	padding: 0 5px;
+}
+
+.box1 h2.center 
+{
+	font-size: 30px;
+	line-height: 1.2em;
+	padding: 4px 0 26px 0;
+	letter-spacing: -1px;
+}
+
+.center 
+{
+	text-align: center;
+}
+
+#library
+{
+	font-family: segoe ui light;
+	margin:10 10 10 10;
+	color:white;
+	font-size:24px;
+}
+
+
+
+.wrapper 
+{
+	width: 100%;
+	overflow: hidden;
+}
+
+.button {
+
+font-size: 20px;
+color: #363636;
+line-height: 34px;
+text-decoration: none;
+}
+
+
+.box1 .button 
+{
+	background: #006abb;
+	padding: 0.25em 1.3em;
+	border-radius: 7px;
+}
+
+.more
+{
+	color:white;
+}
+
+.more:hover
+{
+	color:gold;
+}
+
+#footer
+{
+	background-color:#001628;
+	height:20px;
+}
+
+#pinfo h2
+{
+font-family:segoe ui light;
+font-size:35px;
+color:#006abb;
+}
+
+#pinfo td
+{
+color:#3d464d;
+font-size:30px;
+}
+#pinfo .ans
+{
+color:FFA300;
+}
+#main-right-info{
+vertical-align:top;
+}
+#table-account h2
+{
+font-family:segoe ui light;
+font-size:35px;
+color:#006abb;
+}
+#table-account td
+{
+color:#3d464d;
+font-size:20px;
+}
+#table-account .ans
+{
+color:FFA300;
+}
+
+#main-right-account
+{
+	width: 900px;
+}
+
